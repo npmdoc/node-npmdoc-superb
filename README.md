@@ -1,9 +1,14 @@
-# api documentation for  [superb (v1.3.0)](https://github.com/sindresorhus/superb#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-superb.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-superb) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-superb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-superb)
+# npmdoc-superb
+
+#### api documentation for  [superb (v1.3.0)](https://github.com/sindresorhus/superb#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-superb.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-superb) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-superb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-superb)
+
 #### Get superb like words
 
-[![NPM](https://nodei.co/npm/superb.png?downloads=true)](https://www.npmjs.com/package/superb)
+[![NPM](https://nodei.co/npm/superb.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/superb)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-superb/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-superb_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-superb/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-superb/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-superb/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-superb/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-superb/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-superb/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Sindre Sorhus",
-        "email": "sindresorhus@gmail.com",
         "url": "sindresorhus.com"
     },
     "bin": {
@@ -67,13 +71,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "sindresorhus",
-            "email": "sindresorhus@gmail.com"
+            "name": "sindresorhus"
         }
     ],
     "name": "superb",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/sindresorhus/superb.git"
@@ -84,17 +86,6 @@
     "version": "1.3.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module superb](#apidoc.module.superb)
-1.  object <span class="apidocSignatureSpan">superb.</span>words
-
-
-
-# <a name="apidoc.module.superb"></a>[module superb](#apidoc.module.superb)
 
 
 
